@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davidlopez92
 - 👀 I’m interested in QA Manual and Automation Testing
-- 🌱 I’m currently learning Cucumber and Cypress 
+- 🌱 I’m currently learning Playwright and JavaScript
 - 📫 How to reach me david.lopach@gmail.com
 
 <!---
